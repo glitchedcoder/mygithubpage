@@ -95,7 +95,12 @@ quote {
     margin-left: 40px;
     margin-right: 40px;
     border: 1px solid black;
+    border-radius: 15px;
     font-family: "Lucida Console", Monaco, monospace;
     text-align: center;
     background-color: aliceblue;
+}
+
+quote:hover {
+    background-color: #BDE0FF;
 }
