@@ -109,7 +109,7 @@ quote:hover {
     transform: scale(1.25, 1.25);
 }
 
-#emoticon {
-    height: 22;
-    width: 22;
+img.emoticon {
+    height: 22px;
+    width: 22px;
 }
