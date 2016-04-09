@@ -104,3 +104,12 @@ quote {
 quote:hover {
     background-color: #BDE0FF;
 }
+
+#image_increase:hover {
+    transform: scale(1.25, 1.25);
+}
+
+img.emoticon {
+    height: 22;
+    width: 22;
+}
